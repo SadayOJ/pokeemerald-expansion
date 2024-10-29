@@ -4798,12 +4798,12 @@ Items: Potion / Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Geodude
+Glimmet
 Level: 12
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
+- Acid Spray
+- Stealth Rock
+- Explosion
 - Rock Tomb
 
 Geodude

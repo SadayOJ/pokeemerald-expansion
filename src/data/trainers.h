@@ -11878,7 +11878,7 @@ F_TRAINER_FEMALE |
         {
             {
 #line 4801
-            .species = SPECIES_GEODUDE,
+            .species = SPECIES_GLIMMET,
             .gender = TRAINER_MON_RANDOM_GENDER,
 #line 4803
             .iv = TRAINER_PARTY_IVS(12, 12, 12, 12, 12, 12),
@@ -11888,9 +11888,9 @@ F_TRAINER_FEMALE |
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
             .moves = {
 #line 4804
-                MOVE_TACKLE,
-                MOVE_DEFENSE_CURL,
-                MOVE_ROCK_THROW,
+                MOVE_ACID_SPRAY,
+                MOVE_STEALTH_ROCK,
+                MOVE_EXPLOSION,
                 MOVE_ROCK_TOMB,
             },
             },
