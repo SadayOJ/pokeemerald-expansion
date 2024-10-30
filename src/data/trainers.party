@@ -4801,25 +4801,35 @@ AI: Check Bad Move / Try To Faint / Check Viability
 Glimmet
 Level: 12
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Ball: Great Ball
+Happiness: 255
 - Acid Spray
 - Stealth Rock
 - Explosion
 - Rock Tomb
 
-Geodude
+lileep
 Level: 12
+Ability: Storm Drain
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
+Ball: Great Ball
+Happiness: 255
+Nature: Relaxed
+- Acid
+- Bullet Seed
+- Ingrain
 - Rock Tomb
 
 Nosepass @ Oran Berry
 Level: 15
+Ability: Sturdy
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Block
+Ball: Great Ball
+Happiness: 255
+Nature: Brave
+- Thunder Wave
 - Harden
-- Tackle
+- Rock Smash
 - Rock Tomb
 
 === TRAINER_BRAWLY_1 ===
@@ -4832,28 +4842,31 @@ Items: Super Potion / Super Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Machop
+Scraggy
 Level: 16
+Ability: Moxie
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Karate Chop
-- Low Kick
-- Seismic Toss
+- Knock Off
+- Rock Tomb
+- Low Sweep
 - Bulk Up
 
-Meditite
-Level: 16
+Croagunk
+Level: 18
+Ability: Poison Touch
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Focus Punch
-- Light Screen
+- Poison Sting
+- Aerial Ace
 - Reflect
 - Bulk Up
 
-Makuhita @ Sitrus Berry
+Makuhita @ Toxic Orb
 Level: 19
+Ability: Guts
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Arm Thrust
-- Vital Throw
-- Reversal
+- Smack Down
+- Vacuum Wave
+- Bullet Punch
 - Bulk Up
 
 === TRAINER_WATTSON_1 ===

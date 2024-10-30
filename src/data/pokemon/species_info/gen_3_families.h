@@ -3502,11 +3502,11 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
     [SPECIES_MAKUHITA] =
     {
         .baseHP        = 72,
-        .baseAttack    = 60,
-        .baseDefense   = 30,
+        .baseAttack    = 90,
+        .baseDefense   = 90,
         .baseSpeed     = 25,
         .baseSpAttack  = 20,
-        .baseSpDefense = 30,
+        .baseSpDefense = 90,
         .types = MON_TYPES(TYPE_FIGHTING),
         .catchRate = 180,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 47 : 87,
@@ -3559,7 +3559,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .levelUpLearnset = sMakuhitaLevelUpLearnset,
         .teachableLearnset = sMakuhitaTeachableLearnset,
         .eggMoveLearnset = sMakuhitaEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 24, SPECIES_HARIYAMA}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 32, SPECIES_HARIYAMA}),
     },
 
     [SPECIES_HARIYAMA] =
