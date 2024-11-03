@@ -4805,7 +4805,7 @@ Ball: Great Ball
 Happiness: 255
 - Acid Spray
 - Stealth Rock
-- Explosion
+- Confuse Ray
 - Rock Tomb
 
 lileep
@@ -4855,17 +4855,19 @@ Croagunk
 Level: 18
 Ability: Poison Touch
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Nature: Adamant
 - Poison Sting
 - Aerial Ace
-- Reflect
+- Low Sweep
 - Bulk Up
 
 Makuhita @ Toxic Orb
 Level: 19
 Ability: Guts
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Nature: Adamant
 - Smack Down
-- Vacuum Wave
+- Force Palm
 - Bullet Punch
 - Bulk Up
 
@@ -4879,36 +4881,41 @@ Items: Super Potion / Super Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Voltorb
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rollout
-- Spark
-- Self Destruct
-- Shock Wave
-
-Electrike
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Shock Wave
-- Leer
-- Quick Attack
-- Howl
-
-Magneton
+Eelektrik
 Level: 22
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Nature: Modest
+- U_Turn
+- Electric Terrain
+- Giga Drain
+- Shock Wave
+
+Raichu_Alolan
+Level: 22
+Ability: Surge Surfer
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Shock Wave
+- Surf
+- Alluring Voice
+- Trailblaze
+
+Magneton @ Magnet
+Level: 24
+Ability: Sturdy
 IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Supersonic
+- Tri_Attack
 - Shock Wave
 - Thunder Wave
-- Sonic Boom
+- Heavy Slam
 
 Manectric @ Sitrus Berry
-Level: 24
+Level: 26
+Ability: Static
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Quick Attack
-- Thunder Wave
-- Shock Wave
+Nature: Adamant
+- Ice Fang
+- Crunch
+- Thunder Fang
 - Howl
 
 === TRAINER_FLANNERY_1 ===
@@ -4918,40 +4925,43 @@ Pic: Leader Flannery
 Gender: Female
 Music: Female
 Items: Hyper Potion / Hyper Potion
-Double Battle: No
+Double Battle: Yes
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Numel
+Ninetales
 Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Take Down
-- Magnitude
-- Sunny Day
+Ability: Drought
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 0 Spe
+- Burning Jealousy
+- Scorching Sands
+- Solar Beam
+- Shadow Ball
 
-Slugma
+Braixen
 Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Smog
-- Light Screen
-- Sunny Day
+Ability: Magician
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 0 Spe
+- Trick Room
+- Psybeam
+- Heat Wave
+- Protect
 
 Camerupt
 Level: 26
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Tackle
-- Sunny Day
-- Attract
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 0 Spe
+- Rock Slide
+- Eruption
+- Stomping Tantrum
+- Curse
 
-Torkoal @ White Herb
+Torkoal @ Assault Vest
 Level: 29
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Sunny Day
-- Body Slam
-- Attract
+Ability: Drought
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 0 Spe
+- Eruption
+- Solar Beam
+- Sludge Bomb
+- Scorching Sands
 
 === TRAINER_NORMAN_1 ===
 Name: NORMAN
@@ -4963,37 +4973,40 @@ Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Spinda
+Tauros
 Level: 27
+Ability: Sheer Force
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Teeter Dance
-- Psybeam
-- Facade
-- Encore
+- Raging Bull
+- Earthquake
+- Throat Chop
+- Close Combat
 
-Vigoroth
+Snorlax
 Level: 27
+Ability: Thick Fat
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Facade
-- Encore
-- Feint Attack
+- Rest
+- Body Slam
+- Sleep Talk
+- Crunch
 
-Linoone
+Lopunny @ Lopunnite
 Level: 29
+Ability: Limber
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Belly Drum
-- Facade
-- Headbutt
+- Ice Punch
+- Circle Throw
+- Retaliate
+- Play Rough
 
 Slaking @ Sitrus Berry
 Level: 31
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Counter
-- Yawn
-- Facade
-- Feint Attack
+- Earthquake
+- Throat Chop
+- Giga Impact
+- Feint
 
 === TRAINER_WINONA_1 ===
 Name: WINONA

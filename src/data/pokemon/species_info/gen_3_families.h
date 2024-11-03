@@ -4665,11 +4665,11 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
 
     [SPECIES_MANECTRIC] =
     {
-        .baseHP        = 70,
-        .baseAttack    = 75,
+        .baseHP        = 100,
+        .baseAttack    = 105,
         .baseDefense   = 60,
         .baseSpeed     = 105,
-        .baseSpAttack  = 105,
+        .baseSpAttack  = 75,
         .baseSpDefense = 60,
         .types = MON_TYPES(TYPE_ELECTRIC),
         .catchRate = 45,
