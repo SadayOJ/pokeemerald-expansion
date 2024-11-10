@@ -1896,7 +1896,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
     #else
         .types = MON_TYPES(TYPE_NORMAL),
     #endif
-        .catchRate = 150,
+        .catchRate = 200,
         .expYield = (P_UPDATED_EXP_YIELDS >= GEN_5) ? 38 : 33,
         .evYield_HP = 1,
         .genderRatio = PERCENT_FEMALE(75),
